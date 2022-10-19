@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1, h2, h3  {
+    color: white;
+    font-family: 'Syncopate', sans-serif;
+
+}
+
+p, li {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+
+
+
+
+}
